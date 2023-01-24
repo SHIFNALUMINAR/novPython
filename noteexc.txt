@@ -1,0 +1,21 @@
+git & github 
+------------
+
+vcm -version control management
+scm -software configuration management
+
+uses
+-----
+
+git operations
+---------------
+push - local repository to remote repository  - new project and new updations
+clone - remote repository to local repository - to get exact copy of project
+pull  - remote repository to local repository - to get new changes of project
+
+push 
+----
+1.git add
+2.git commit
+3.push
+
